@@ -1,2 +1,2 @@
 # GoW
-krigspillet
+krigsspillet
